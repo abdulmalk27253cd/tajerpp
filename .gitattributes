@@ -1,0 +1,2 @@
+TAJER.ZIP filter=lfs diff=lfs merge=lfs -text
+TAJER.zip filter=lfs diff=lfs merge=lfs -text
